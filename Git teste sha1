@@ -1,0 +1,3 @@
+openssl sha1 a.txt
+SHA1(a.txt)= 93848eb730ac0dd3fc8d52d89104ae0b7be606ec
+
